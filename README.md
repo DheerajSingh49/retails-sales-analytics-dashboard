@@ -74,4 +74,16 @@ Data Collection → Data Cleaning → SQL Analysis → KPI Creation → Power BI
 
 ## Dashboard Preview
 
-(Add screenshots here)
+## Dashboard Preview
+
+### Revenue Analysis
+![Revenue Analysis](Screenshots/revenue_analysis.png)
+
+### Customer Analysis
+![Customer Analysis](Screenshots/customer_analysis.png)
+
+### Product Analysis
+![Product Analysis](Screenshots/product_analysis.png)
+
+### Geographic Analysis
+![Geographic Analysis](Screenshots/geographic_analysis.png)
